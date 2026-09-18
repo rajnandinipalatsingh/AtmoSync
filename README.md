@@ -896,7 +896,7 @@ The project will be updated progressively as each stage is completed.
 | -------- | --------------- | ----------------------------- |
 | Member 1 | Team Leader     | Nabina Mallik                 |
 | Member 2 | Team Member     | Rajnandini Palatsingh         |
-| Member 3 | Team Member     | ---                           |
+| Member 3 | Team Member     | Tanmay Khandait                         |
 | Member 4 | Team Member     | ---                           |
 
 ---
