@@ -1,6 +1,0 @@
-LULC_Type,Average_Temperature,Average_Humidity,Average_Wind_Speed,Average_Solar_Radiation,Average_NDVI
-Agricultural,12.6,60.26,7.51,551.17,0.5
-Barren,12.95,60.22,7.62,549.72,0.51
-Forest,12.41,60.46,7.62,544.57,0.51
-Urban,12.49,60.62,7.6,546.01,0.49
-Water,12.15,59.95,7.46,546.2,0.51
