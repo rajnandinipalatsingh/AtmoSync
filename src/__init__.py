@@ -1,3 +1,0 @@
-"""
-AtmoSync source package.
-"""
