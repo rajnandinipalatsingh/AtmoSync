@@ -881,26 +881,3 @@ The project demonstrates the complete workflow of a practical data analytics pro
 ```
 
 ---
-
-# 📌 Project Status
-
-**Current Stage:** Data Collection / Data Preparation
-
-The project will be updated progressively as each stage is completed.
-
----
-
-# 👥 Contributors
-
-| Member   | Role            | Contributor                   |
-| -------- | --------------- | ----------------------------- |
-| Member 1 | Team Leader     | Nabina Mallik                 |
-| Member 2 | Team Member     | Rajnandini Palatsingh         |
-| Member 3 | Team Member     | Tanmay Khandait                         |
-| Member 4 | Team Member     | ---                           |
-
----
-
-# ⭐ Acknowledgement
-
-Datasets and external resources used in this project will be properly documented and credited in the project documentation.
